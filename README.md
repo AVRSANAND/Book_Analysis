@@ -5,8 +5,10 @@ This repository contains scripts for performing sentiment analysis on a book pro
 ## Contents
 
 - `Book_Analysis.ipynb`: This notebook contains the preprocessing and analysis of the book's text.
-- `Sentiment_Analysis.ipynb`: This notebook focuses on performing sentiment analysis on the processed text.
+- `Sentiment_Analysis.ipynb`: This notebook focuses on performing sentiment analysis on the processed text from a text file.
+- `Pdf_Analysis.ipynb`: Thi notebook focuses on performing sentiment analysis on the processed text from a pdf file.
 - `book.txt`: The text file of the book used for analysis.
+- `book.pdf`: The pdf file of the book used for analysis.
 
 ## Requirements
 
@@ -14,6 +16,7 @@ The following Python packages are required to run the notebooks:
 
 - `nltk` 
 - `re`
+- `matplotlib`
 
 You can install the required packages using pip:
 
@@ -51,6 +54,7 @@ pip install nltk
     ```bash
     jupyter notebook Book_Analysis.ipynb
     jupyter notebook Sentiment_Analysis.ipynb
+    jupyter notebook Pdf_Analysis.ipynb
     ```
 
 ## Results
