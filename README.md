@@ -36,6 +36,11 @@ pip install nltk
     - Apply sentiment analysis using the `nltk` library to determine the sentiment polarity and subjectivity of the text.
     - Visualize the results to interpret the sentiment trends throughout the book.
 
+3. **Pdf Analysis (`Pdf_Analysis.ipynb`)**:
+    - Load and preprocess the text from `book.pdf`.
+    - Apply sentiment analysis using the `nltk` library to determine the sentiment polarity and subjectivity of the text.
+    - Visualize the results to interpret the sentiment trends throughout the book using matplotlib.
+   
 ## How to Run
 
 1. Clone this repository to your local machine:
