@@ -68,4 +68,4 @@ The sentiment analysis results provide insights into the emotional tone of the b
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements. Additional improvements can be done in place where without explicit mentioning of chapters , it can predict the sentiment analysis. 
